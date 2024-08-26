@@ -10,4 +10,8 @@ public class GitDemo {
         System.out.println(msg);
     }
     
+    void nemKell(){
+        
+    }
+    
 }
