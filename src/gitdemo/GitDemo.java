@@ -3,7 +3,7 @@ package gitdemo;
 public class GitDemo {
 
     public static void main(String[] args) {
-        new GitDemo().kiir("alap");
+        new GitDemo().kiir("javítás: ");
     }
 
     private void kiir(String msg) {
